@@ -38,3 +38,6 @@ Fique à vontade para entrar em contato: henriquemartins3003@hotmail.com
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueMartins3003&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMartins3003&hide_progress=true&theme=dracula)
+
+
