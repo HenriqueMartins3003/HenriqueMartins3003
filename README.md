@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Henrique, um desenvolvedor FrontEnd apaixonado por tecnologia!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Henrique, um apaixonado por tecnologia!</h1>
 <p align="center">
 <a href="https://instagram.com/hiikemartins"><img src="https://img.shields.io/badge/-@HiikeMartins_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dev-henrique-martins/"><img src="https://img.shields.io/badge/-Henrique Martins-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
